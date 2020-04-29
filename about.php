@@ -1,12 +1,8 @@
 <?php
 $title = "About";
 $description ="Description of the About page";
-
-
 require("templates/header.php");
 //require("templates/nav.php");
-
-
 ?>
 
 

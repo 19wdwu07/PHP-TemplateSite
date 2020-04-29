@@ -1,6 +1,6 @@
 	<meta charset="UTF-8">
 	<meta name="description" content="<?= $description; ?>">
-	<meta name="keywords" content="HMTL, CSS, JAVASCRIPT, PHP">
+	<meta name="keywords" content="HTML, CSS, JAVASCRIPT, PHP">
 	<meta name="author" content="Beula Samuel">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- The webpage Meta Description is what search engines will display in the search results below your Title.

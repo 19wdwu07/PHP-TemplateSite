@@ -1,5 +1,5 @@
 <?php
-/*
+   /*
         The include and require methods, finds the file you are wanting and places it where you call
         the function.
         The difference between include and require is, with include, if it can't find the file you are
@@ -12,8 +12,11 @@
     // include("templates/header.php");
 
 $title="Home";
+
 $description = "Description of the Home page";
+
 require("templates/header.php");
+
 //require("templates/nav.php");
 ?>
 

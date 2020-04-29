@@ -1,8 +1,8 @@
-<footer>
-
+  <footer class="text-center">
 			All rights reserved
-		</footer>
+	</footer>
 	</div>
+
 	<?php
 	require("templates/scripts.php");
 	?>
